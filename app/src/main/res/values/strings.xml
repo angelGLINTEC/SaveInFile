@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="edTxtStr_TITULO">TAREA</string>
+    <string name="btnStr_NOTA">Guardar Nota</string>
+    <string name="btnStr_LOAD">CARGAR NOTA</string>
+</resources>
